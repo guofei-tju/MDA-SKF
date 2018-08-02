@@ -1,5 +1,5 @@
 # SKFMDA
-Code and Datasets of Paper Fusing Multiple Similarity Kernels to Accurately Discover MiRNA-disease Association
+Code and Datasets of Paper--SKFMDA: Similarity Kernel Fusion for Accurately Discovering MiRNA-Disease Association
 
 No1.    For fold_5.mat, local_LOOCV.mat and global_LOOCV.mat
 
