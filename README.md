@@ -15,4 +15,4 @@ A novel Adjacency_Metrix
 
 No2.  For global_validation_demo.mat and local_validation_demo.mat
 
-Requirement:  all associations that include in the HMDD, dbDEMC and miR2Disease are necessary.
+Mind:  all associations that include in the HMDD, dbDEMC and miR2Disease are necessary.
