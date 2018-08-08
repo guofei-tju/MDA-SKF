@@ -1,4 +1,4 @@
-function [W]=SNF_test(Wall,K,t,ALPHA)
+function [W]=SKF(Wall,K,t,ALPHA)
 
 if nargin < 2
     K = 20;
