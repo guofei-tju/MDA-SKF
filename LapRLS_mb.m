@@ -1,4 +1,4 @@
-function [LapA] = LapRLS(W1,W2,y, lambda,p_nearest_neighbor,type)
+function [LapA] = LapRLS_mb(W1,W2,y, lambda,p_nearest_neighbor,type)
 %tju cs, bioinformatics. This program is recoded by reference follow:
 %ref:
 %[1] Xia Z, Wu L Y, Zhou X, et al. 
