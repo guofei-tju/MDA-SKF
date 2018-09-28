@@ -16,3 +16,6 @@ A novel Adjacency_Metrix
 No2.  For global_validation_demo.mat and local_validation_demo.mat
 
 Mind:  all associations that include in the HMDD, dbDEMC and miR2Disease are necessary.
+
+
+supporting information file include all the predicted association by using local validation and global validation.
