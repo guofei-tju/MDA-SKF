@@ -1,7 +1,7 @@
 # SKFMDA
 Code and Datasets of Paper--SKFMDA: Similarity Kernel Fusion for Accurately Discovering MiRNA-Disease Association
 
-No1.    For fold_5.mat, local_LOOCV.mat and global_LOOCV.mat
+No1.    For fold_5.m, local_LOOCV.m and global_LOOCV.m
 
 Input:
 MiRNA_functional_similarity_Metrix.mat
